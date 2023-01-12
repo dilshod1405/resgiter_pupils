@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(105,53,156);
+    height: 110px;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    margin-left: 47%;
+    font-size: 20px;
+    padding: 6px;
+    margin-top: 10px;
+    transition: .4s ease-out;
+
+}
+header a:hover{
+    color: black;
+    transition: .4s ease-out;
+
+}
+
+body ol{
+    margin-top: 20px;
+    margin-left: 35%;
+}
+ body ol p{
+     color: rgb(105,53,156);
+ }
+
